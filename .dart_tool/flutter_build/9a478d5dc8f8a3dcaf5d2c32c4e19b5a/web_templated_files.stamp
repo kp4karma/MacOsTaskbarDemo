@@ -1,0 +1,1 @@
+{"inputs":["D:\\draggable_taskbar\\web\\*\\index.html","D:\\draggable_taskbar\\web\\flutter_bootstrap.js","C:\\flutter\\bin\\internal\\engine.version"],"outputs":["D:\\draggable_taskbar\\build\\web\\*\\index.html","D:\\draggable_taskbar\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
